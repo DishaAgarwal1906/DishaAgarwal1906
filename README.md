@@ -3,5 +3,5 @@
 
 #### 🔭 Currently, I'm deeply engaged in Machine Learning and Data Analysis projects 🚀.
 #### 🌱 Every day brings a chance for me to acquire fresh knowledge and enhance my skill set 📊.
-#### 🎯 My 2024 aspirations are geared towards addressing challenges within ML and Data Analysis 📚.
+#### 🎯 My aspirations are geared towards addressing challenges within ML and Data Analysis 📚.
 
